@@ -1,0 +1,40 @@
+.footerDiv {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0 20px;
+}
+
+.footerDiv ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 16px;
+}
+
+.footerDiv li {
+    display: block;
+}
+
+.footerDiv li a {
+    color: #02b7ff;
+}
+
+.footerDiv p {
+    margin: 20px 0 0;
+}
+
+.footerRight {
+    display: flex;
+    gap: 22px;
+}
+
+.footerRight path {
+    color: #02b7ff;
+}
+
+.footerRight svg {
+    font-size: 20px;
+}

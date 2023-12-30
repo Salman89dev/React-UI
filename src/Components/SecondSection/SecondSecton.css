@@ -1,0 +1,19 @@
+.mainSecond {
+    width: 80%;
+    margin: 90px auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 30px;
+}
+
+.mainSecond h4 {
+    margin: 10px 0;
+    color: #6e6eca;
+}
+
+.mainSecond p {
+    margin: 0;
+}

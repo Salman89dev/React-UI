@@ -1,0 +1,30 @@
+.heroSec
+{
+    background-image: url('./../../images/heroSecBg.jpg');
+    text-align: center;
+    padding: 200px 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.heroSec h1
+{
+    color: #fff;
+    font-size: 60px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.heroSec form{
+    margin: 40px  0 0;
+}
+.heroSec input[type="text"] {height: 42px;width: 320px;border-radius: 5px;border: none;padding: 0 0px 0 10px;outline: none;font-family: 'Montserrat';color: #000;}
+
+.heroSec button {
+    background: #4d4dff;
+    height: 42px;
+    border: none;
+    color: #fff;
+    width: 80px;
+    border-radius: 5px;
+    margin: 0 0 0 6px;
+}
